@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sitesurfer\TCOsdata\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TCOsdataCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'tc-osdata';
 
     public $description = 'My command';
 
